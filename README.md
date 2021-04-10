@@ -1,2 +1,2 @@
-# Pi-Pico based XY-Robot
-Robot used to balance XY or any kind of xy table movements. All code is written in micro python for the PI Pico micro processor.
+# All media related to the project
+Here you will find all the media content related to the pi-pico xy robot.
